@@ -1,6 +1,8 @@
 # TWOTREES-TT-1s
 Config for the TWOTREES TT-1s (2020) Mini 3D Printer
 
+![TT-1s(2020)](https://github.com/hmsq82/TWOTREES-TT-1s/blob/main/images/TT-1s%20Running%20Marlin.PNG?raw=true)
+
 Configuration.h and Configuration_adv.h based on Marlin 2.0.7.2 to support TwoTress TT-1s (2020) Mini 3D Printer.
 
 A 12V Cartasian 3D Printer utilising MKS Robin Nano V1.2 32Bit board with 4x A4988 stepper Drivers on the XYZE axis. 
