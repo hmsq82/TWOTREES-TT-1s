@@ -1,7 +1,8 @@
 # TWOTREES-TT-1s
 Config for the TWOTREES TT-1s (2020) Mini 3D Printer
 
-[[https://raw.githubusercontent.com/hmsq82/TWOTREES-TT-1s/main/images/TT-1s%20Running%20Marlin.PNG]]
+
+![alt text](https://raw.githubusercontent.com/hmsq82/TWOTREES-TT-1s/main/images/TT-1s%20Running%20Marlin.PNG?raw=true)
 
 
 Configuration.h and Configuration_adv.h based on Marlin 2.0.7.2 to support TwoTress TT-1s (2020) Mini 3D Printer.
