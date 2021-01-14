@@ -1,5 +1,5 @@
 # TWOTREES-TT-1s
-Config for the TWOTREES TT-1s Mini 3D Printer
+Config for the TWOTREES TT-1s (2020) Mini 3D Printer
 
 Configuration.h and Configuration_adv.h based on Marlin 2.0.7.2 to support TwoTress TT-1s (2020) Mini 3D Printer.
 
